@@ -1,0 +1,18 @@
+main{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+textarea{
+    color: black;
+    font-size: 200%;
+}
+textarea:hover{
+    color: blueviolet;
+    font-weight: 800;
+}
+.list{
+    width: 100%;
+}
